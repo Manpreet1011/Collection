@@ -13,12 +13,11 @@ public class ArrayList1 {
         {
             System.out.println(s);
         }
+        System.out.println("With Iterator");
         Iterator i=l.iterator();
         while (i.hasNext())
         {
             System.out.println(i.next());
-
-
         }
 
     }
