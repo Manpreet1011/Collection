@@ -20,7 +20,7 @@ public class ArrayList2 {
             if(i>=5)
                 itr.remove();
         }
-        System.out.println(x);
+        System.out.println("-----"+x);
 
     }
 }
