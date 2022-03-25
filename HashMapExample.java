@@ -9,7 +9,7 @@ public class HashMapExample {
         names.put("Manpreet","Punjab");
         names.put("Abhay","Moga");
         names.put("Param","Kot");
-        names.put("Hi","Hello");
+       // names.put("Hi","Hello");
         System.out.println(names);
         System.out.println(names.get("Abhay"));
         //Collections.sort(names);
