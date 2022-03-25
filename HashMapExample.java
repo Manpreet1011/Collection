@@ -8,7 +8,7 @@ public class HashMapExample {
         HashMap<String,String> names=new HashMap<>();
         names.put("Manpreet","Punjab");
         names.put("Abhay","Moga");
-        names.put("Param","Kot");
+        names.put("Param","Kot ise khan");
        // names.put("Hi","Hello");
         System.out.println(names);
         System.out.println(names.get("Abhay"));
